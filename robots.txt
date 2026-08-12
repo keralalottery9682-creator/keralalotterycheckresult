@@ -7,4 +7,4 @@ Allow: /kerala-lottery-winnerl-list.html
 Allow: /check-kerala-lottery-result.html
 Allow: /contact.html
 Allow: /gallery.html
-Sitemap: https://statekeralajackpotlottery.netlify.app/sitemap.xml
+Sitemap: https://keralalotterycheckresult-xm02.onrender.com/sitemap.xml
